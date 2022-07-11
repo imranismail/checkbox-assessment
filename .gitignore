@@ -1,0 +1,3 @@
+charts/
+!.tool-versions
+.terraform
